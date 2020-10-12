@@ -14,6 +14,8 @@
 #include "defines.h"
 #include "layout.h"
 
+#define VERSION         "1.0.0"
+
 #define NUM_PIXELS      1
 #define PIXEL_PIN       13
 #define PIXEL_VALUE     4
