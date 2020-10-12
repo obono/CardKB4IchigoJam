@@ -1,12 +1,14 @@
 # CardKB4IchigoJam ![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![Picture](doc/picture.jpg)
+
 A customized firmware of [CardKB](https://docs.m5stack.com/#/en/unit/cardkb) for [IchigoJam](https://ichigojam.net/index-en.html).
 
 [Download the HEX file of the firmware](https://github.com/obono/CardKB4IchigoJam/releases/latest)
 
 ## How to use
 
-* Your IchigoJam must be US keyboard layout version.
+* **Your IchigoJam must be US layout keyboard version.**
 * Burn the firmware to your CardKB.
   * Search how to burn the firmware yourself.
   * 'Adafruit NeoPixel' library is needed when building the firmware from the source code on Arduino IDE.

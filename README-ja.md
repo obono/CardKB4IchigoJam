@@ -1,12 +1,14 @@
 # CardKB4IchigoJam ![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![写真](doc/picture.jpg)
+
 [IchigoJam](https://ichigojam.net/) 用に改造した [CardKB](https://docs.m5stack.com/#/ja/unit/cardkb) のファームウェアです。
 
 [HEX ファイルをダウンロードする](https://github.com/obono/CardKB4IchigoJam/releases/latest)
 
 ## 使用方法
 
-* IchigoJam は US キーボード用のファームウェアが焼かれている前提です。
+* **IchigoJam は US キーボード用のファームウェアが焼かれている前提**です。
 * CardKB のファームウェアを書き換えます。
   * ファームウェアの書き換え方法は、下記参考記事を参照するなどしてご自分で調べてください。
   * Arduino IDE でソースコードからファームウェアをビルドする際は、'Adafruit NeoPixel' ライブラリが必要です。
@@ -79,5 +81,5 @@ Space |カナ入力モード切り替え
 
 ## ライセンス
 
-[MIT ライセンス](LICENSE).
+[MIT ライセンス](LICENSE)
 
