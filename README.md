@@ -76,4 +76,4 @@ Space |Toggle KANA mode
 
 ## License
 
-This program is licensed under [MIT-License](LICENSE).
+This program is licensed under [MIT License](LICENSE).
